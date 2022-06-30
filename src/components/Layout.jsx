@@ -1,6 +1,6 @@
 import { Container, Col } from '@nextui-org/react';
 
-export default function Layout({ children }) {
+export const Layout =({ children })=> {
   return (
     <Container
       xs

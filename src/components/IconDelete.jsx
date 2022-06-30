@@ -1,4 +1,4 @@
-export const DeleteIcon = () => {
+export const IconDelete = () => {
   return (
     <svg
       width={24}
